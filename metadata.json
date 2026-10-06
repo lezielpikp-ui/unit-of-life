@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cell Explorer",
+  "description": "An interactive biology adventure exploring animal and plant cell parts, nicknames, and functions with quizzes, match-up games, and cartoon diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
